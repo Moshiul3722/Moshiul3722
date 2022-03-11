@@ -14,9 +14,7 @@ Skills: PHP / Laravel / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moshiul3722)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gazimoshiul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/gazi.moshiul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@GaziMoshiul)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moshiul3722&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Moshiul3722)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moshiul3722&show_icons=true&count_private=true)   
 
 ![GitHub metrics](https://metrics.lecoq.io/Moshiul3722)  
 
