@@ -1,4 +1,4 @@
-![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQEnCTusqlTVjg/profile-displaybackgroundimage-shrink_200_800/0/1638091775435?e=1652313600&v=beta&t=5ppUM6P3U5WzWuuM6shFH3uDvEn8_ZlX-6eQwU05GhA)
+![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQH78VCYF6Ul3w/profile-displaybackgroundimage-shrink_200_800/0/1647021351086?e=1652313600&v=beta&t=mCmzLD97VkguIN_yPLnTRmMT2qQ05a_cUzVfPHrIbOM)
 
 ### Hi there 👋, I am Gazi Moshiul
 #### Web Developer
