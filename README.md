@@ -1,5 +1,3 @@
-![Web Developer](https://twitter.com/GaziMoshiul/photo)
-
 ### Hi there 👋, I am Gazi Moshiul
 #### Web Developer
 
